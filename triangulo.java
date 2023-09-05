@@ -8,6 +8,8 @@ public class triangulo {
         triangoIterado(4);
         trianguloFormula(4);
         System.out.println( "recursivo " + trianguloRecursivo(4));
+
+        System.out.println( "é triangular " + 24 )
     }
 
     public static void triangoIterado(int n ){
